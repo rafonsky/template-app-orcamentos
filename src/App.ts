@@ -1,2 +1,2 @@
-import { initApp } from `./core/init`
+import { initApp } from './core/init'
 initApp()
